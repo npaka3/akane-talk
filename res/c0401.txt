@@ -1,0 +1,12 @@
+
+#cff0000
+!--SYSTEM BREAK--!	ｱﾌﾟﾘ ｼｽﾃﾑﾒﾓﾘ ﾆ	ﾊｿﾝ ｶｼｮ ｶﾞ ｱﾘﾏｽ...
+ERROR 4gtbk	M1_Check...Ok	M2_Check...Ok
+M3_Check...Ok	M4_Check...Failure	M5_Check...Ok
+#c000000
+ｼﾊﾞﾗｸｵﾏﾁｸﾀﾞｻｲ.....
+#i0
+#v
+…な～んて嘘だよ、	お兄ちゃん(ﾆﾔｿ
+今日はｴｲﾌﾟﾘﾙﾌｰﾙ	なのでした～♪
+b
