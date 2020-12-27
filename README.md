@@ -1,9 +1,15 @@
 # あかねと〜く
 
-<img src="./docs/images/0.png" width="160">
-<img src="./docs/images/1.png" width="160">
-<img src="./docs/images/2.png" width="160">
-<img src="./docs/images/3.png" width="160">
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD><img src="./docs/images/0.png" width="160"></TD>
+      <TD><img src="./docs/images/1.png" width="160"></TD>
+      <TD><img src="./docs/images/2.png" width="160"></TD>
+      <TD><img src="./docs/images/3.png" width="160"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
 
 ## ★お兄ちゃん! いっしょに おはなし しよ♪
 
@@ -24,7 +30,7 @@
 <BR>
 
 # **目次**
-- [**プレビュー**](index.html)
+- [**プレビュー**](https://npaka3.github.io/akane-talk/)
 - [**スクリプト仕様書**](docs/script.md)
 - [**GPT-2のファインチューニング用のデータセット**](docs/dataset.txt)
 <BR>
