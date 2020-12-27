@@ -28,10 +28,11 @@
 ※トーク内容はオリジナルを完全移植しておりますので、古き良き当時の時事ネタをご堪能ください。
 <BR>
 <BR>
-**※企画・絵**
-せひら（https://sehira.jp）
-**※技術**
-んぱか（https://note.com/npaka）
+
+**※企画・絵**  
+せひら（https://sehira.jp）  
+**※技術**  
+んぱか（https://note.com/npaka）  
 
 # **目次**
 - [**プレビュー**](https://npaka3.github.io/akane-talk/)
