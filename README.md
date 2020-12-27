@@ -33,6 +33,8 @@
 せひら（https://sehira.jp）  
 **※技術**  
 んぱか（https://note.com/npaka）  
+<BR>
+<BR>
 
 # **目次**
 - [**プレビュー**](https://npaka3.github.io/akane-talk/)
