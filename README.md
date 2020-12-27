@@ -30,9 +30,9 @@
 <BR>
 
 **※企画・絵**  
-せひら（https://sehira.jp）  
+せひら（[https://sehira.jp](https://sehira.jp)）  
 **※技術**  
-んぱか（https://note.com/npaka）  
+んぱか（[https://note.com/npaka](https://note.com/npaka)）  
 <BR>
 <BR>
 
